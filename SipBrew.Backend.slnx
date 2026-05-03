@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SipBrew.Core/SipBrew.Core.csproj" />
+  <Project Path="SipBrew.WebAPI/SipBrew.WebAPI.csproj" />
+</Solution>

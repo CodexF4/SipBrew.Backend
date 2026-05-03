@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496B6C7C-DD6D-4B39-CF7A-685476B37115}|SipBrew.WebAPI\\SipBrew.WebAPI.csproj|c:\\users\\javie\\onedrive\\desktop\\personal projects\\sipbrew.backend\\sipbrew.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B6C7C-DD6D-4B39-CF7A-685476B37115}|SipBrew.WebAPI\\SipBrew.WebAPI.csproj|solutionrelative:sipbrew.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|c:\\users\\javie\\onedrive\\desktop\\personal projects\\sipbrew.backend\\sipbrew.core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|solutionrelative:sipbrew.core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|c:\\users\\javie\\onedrive\\desktop\\personal projects\\sipbrew.backend\\sipbrew.core\\addcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|solutionrelative:sipbrew.core\\addcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B6C7C-DD6D-4B39-CF7A-685476B37115}|SipBrew.WebAPI\\SipBrew.WebAPI.csproj|c:\\users\\javie\\onedrive\\desktop\\personal projects\\sipbrew.backend\\sipbrew.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B6C7C-DD6D-4B39-CF7A-685476B37115}|SipBrew.WebAPI\\SipBrew.WebAPI.csproj|solutionrelative:sipbrew.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|c:\\users\\javie\\onedrive\\desktop\\personal projects\\sipbrew.backend\\sipbrew.core\\business\\productsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C4AA-73B2-32FC-7146-3A1A2F3EFAEC}|SipBrew.Core\\SipBrew.Core.csproj|solutionrelative:sipbrew.core\\business\\productsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SipBrew.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.WebAPI\\Program.cs",
+              "RelativeToolTip": "SipBrew.WebAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:19:49.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SipBrew.Core\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\AppDbContext.cs",
+              "RelativeToolTip": "SipBrew.Core\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:18:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\AddContextFactory.cs",
+              "RelativeDocumentMoniker": "SipBrew.Core\\AddContextFactory.cs",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\AddContextFactory.cs",
+              "RelativeToolTip": "SipBrew.Core\\AddContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:18:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SipBrew.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SipBrew.WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:06:28.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsBL.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\Business\\ProductsBL.cs",
+              "RelativeDocumentMoniker": "SipBrew.Core\\Business\\ProductsBL.cs",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Desktop\\Personal projects\\SipBrew.Backend\\SipBrew.Core\\Business\\ProductsBL.cs",
+              "RelativeToolTip": "SipBrew.Core\\Business\\ProductsBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:24:51.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

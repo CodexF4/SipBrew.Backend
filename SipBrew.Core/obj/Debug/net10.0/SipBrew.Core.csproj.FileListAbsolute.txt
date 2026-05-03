@@ -1,0 +1,17 @@
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\SipBrew.Core.deps.json
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\SipBrew.Core.runtimeconfig.json
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\SipBrew.Core.dll
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\SipBrew.Core.pdb
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\BaseLib.Common.dll
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\bin\Debug\net10.0\BaseLib.Common.pdb
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew..3B3BE9D9.Up2Date
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.dll
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\refint\SipBrew.Core.dll
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.pdb
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\SipBrew.Core.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Desktop\Personal projects\SipBrew.Backend\SipBrew.Core\obj\Debug\net10.0\ref\SipBrew.Core.dll
