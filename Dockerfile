@@ -14,9 +14,6 @@ WORKDIR /src
 COPY ["SipBrew.WebAPI/SipBrew.WebAPI.csproj", "SipBrew.WebAPI/"]
 COPY ["SipBrew.Core/SipBrew.Core.csproj", "SipBrew.Core/"]
 
-# SipBrew.Core references this DLL through ../../BaseLib/BaseLib/bin/Debug/net10.0.
-COPY ["SipBrew.Core/bin/Debug/net10.0/BaseLib.Common.dll", "/BaseLib/BaseLib/bin/Debug/net10.0/BaseLib.Common.dll"]
-
 RUN dotnet restore "SipBrew.WebAPI/SipBrew.WebAPI.csproj"
 
 COPY . .
